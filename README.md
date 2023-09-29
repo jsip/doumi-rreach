@@ -9,7 +9,11 @@ Pour savoir si tu as accès, ouvre ton powershell (ou terminal si sur Mac) et é
 # 2. Assures toi d'être dans le root directory du folder 'rreach-doumi'
 > `cd rreach-doumi`
 
-# 3. Liste des étapes
+# 3. Ajouter la API key dans
+- getPerson.js:8
+- fetch.js:44
+
+# 4. Liste des étapes
 ## a. Copier dans le terminal *(toujours sous rreach-doumi)* 
 `node fetch.js`
 ## b. Attendre que le script ait fini de rouler, les logs devraient t'indiquer le progrès.
